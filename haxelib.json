@@ -1,0 +1,11 @@
+{
+	"name": "flxcontrols",
+	"url" : "https://github.com/Geokureli/FlxControls",
+	"license": "MIT",
+	"tags": ["flixel", "controls"],
+	"description": "A simplified multi-device input manager tools for HaxeFlixel",
+	"version": "0.1.0",
+	"releasenote": "TilNotDrip fork that adds haxelib.json",
+	"contributors": ["GeoKureli"],
+	"dependencies": {}
+}
