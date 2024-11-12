@@ -7,5 +7,6 @@
 	"version": "0.1.0",
 	"releasenote": "TilNotDrip fork that adds haxelib.json",
 	"contributors": ["GeoKureli"],
-	"dependencies": {}
+	"dependencies": {},
+	"classPath": "lib"
 }
